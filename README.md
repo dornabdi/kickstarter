@@ -3,4 +3,4 @@
 ---
 ![LaunchDate](LaunchDate.png)
 ---
-It's clear that Kickstarters launched in summer months of June and July are more likely to meet their fundraising goals. For this reason, we recommend that you plan to launch your campaign in June. 
+It's clear that Kickstarters launched in summer months of June and July are most likely to meet their fundraising goals. For this reason, we recommend that you plan to launch your campaign in June. 
